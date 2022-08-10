@@ -1,5 +1,5 @@
 homepage: "https://www.tiktok.com"
 documentation: "https://ads.tiktok.com"
 versions:
-  - sha: fd6efb44bf8d72bc923400316cae5b0881c4dfcd
+  - sha: 1c5365b9a7d8eaf2d1c8eff1311b24b1a91d3b8b
     changeNotes: Initial release.
