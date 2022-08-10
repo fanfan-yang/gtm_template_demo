@@ -21,8 +21,8 @@ ___INFO___
   "description": "test",
   "containerContexts": [
     "WEB"
-  ]
-  "categories": ["AFFILIATE_MARKETING", "ADVERTISING", "CONVERSIONS"],
+  ],
+  "categories": ["AFFILIATE_MARKETING", "ADVERTISING", "CONVERSIONS"]
 }
 
 
